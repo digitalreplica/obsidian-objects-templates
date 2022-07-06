@@ -1,0 +1,1 @@
+- [ ] #do/drink/cocktail [name:: Some_cocktail],[location:: restaurant],[rating:: 3]

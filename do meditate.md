@@ -1,0 +1,1 @@
+- [ ] #do/meditate [duration:: 20 minutes]

@@ -1,0 +1,1 @@
+- [ ] #do/drink/beer [name:: Some_beer],[style:: beer_style],[brewery:: name],[location:: string],[abv:: 5],[rating:: 3]

@@ -1,0 +1,1 @@
+- [ ] #do/exercise type [duration:: 5 minutes]
