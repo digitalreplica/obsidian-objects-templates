@@ -1,0 +1,1 @@
+- [ ] #do/read/book [name:: string],[author:: string],[series:: string],[book:: 1],[genre:: string]
